@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "deploying the real thing"
+echo "owner rewrote this line"
